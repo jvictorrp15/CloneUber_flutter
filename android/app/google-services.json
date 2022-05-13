@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873022901170",
+    "project_id": "uber-teste-9334c",
+    "storage_bucket": "uber-teste-9334c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873022901170:android:a5018632c4aa7261ec72ab",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.jamiltondamasceno.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873022901170-m7b7n2gene3i00v78qh7tb1k95tjkmqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL62lq5v0RQ65d6DDiaC_ABEZx3IhJdEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873022901170-m7b7n2gene3i00v78qh7tb1k95tjkmqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
